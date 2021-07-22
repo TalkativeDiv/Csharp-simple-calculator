@@ -12,6 +12,7 @@ namespace ConsoleApp1
     static void Main(string[] args)
 
         {
+           Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Console Calculator in C#\r");
             Console.WriteLine("------------------------\n");
             Console.WriteLine("hit E to exit");
