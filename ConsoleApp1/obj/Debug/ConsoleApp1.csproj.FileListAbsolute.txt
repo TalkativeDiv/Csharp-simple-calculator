@@ -1,0 +1,7 @@
+E:\Abhi's Projects\Visual Studio Code Projects\calc c# is better than java\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Abhi's Projects\Visual Studio Code Projects\calc c# is better than java\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Abhi's Projects\Visual Studio Code Projects\calc c# is better than java\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Abhi's Projects\Visual Studio Code Projects\calc c# is better than java\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Abhi's Projects\Visual Studio Code Projects\calc c# is better than java\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Abhi's Projects\Visual Studio Code Projects\calc c# is better than java\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Abhi's Projects\Visual Studio Code Projects\calc c# is better than java\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
